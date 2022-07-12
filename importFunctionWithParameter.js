@@ -1,0 +1,1 @@
+const multification = require("./exportFunctionWithParameter");
